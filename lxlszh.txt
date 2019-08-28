@@ -1,7 +1,1 @@
-<<<<<<< Updated upstream
-﻿master:2
-
-=======
-﻿
-master:2
->>>>>>> Stashed changes
+﻿﻿master:2
